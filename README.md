@@ -1,0 +1,4 @@
+Hermite
+=======
+
+Implements Hermite interpolation.
